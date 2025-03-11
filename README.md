@@ -1,1 +1,1 @@
-# -res-Restrita
+# -Área-Restrita
